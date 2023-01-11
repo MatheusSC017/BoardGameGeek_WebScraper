@@ -1,2 +1,2 @@
 # BoardGameGeek_WebScraper
-Este projeto trata-se um script capaz de raspar dados tabulares de multiplas páginas.
+This project is a script capable of scraping tabular data from multiple pages.
